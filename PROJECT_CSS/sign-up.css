@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#signuptop {
+    width: 100%;
+    height: 280px;
+}
+
+#signuptop>a>img {
+    width: 100%;
+}
+
+#signuptop+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#signuptop+h2+p {
+    text-align: center;
+    color: grey;
+}
+
+#divsections {
+    width: 55%;
+    height: 320px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    border: 1px solid transparent;
+    margin: auto;
+
+}
+
+#divsections>div:first-child {
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+
+}
+
+input[type="password"],
+input[type="number"],
+input[type="text"],
+input[type="email"] {
+    width: 90%;
+    height: 50px;
+
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: 14px;
+    margin-bottom: 15px;
+    resize: vertical;
+    margin-left: 17px;
+    padding: 20px 20px;
+
+
+
+}
+
+#btn {
+    width: 90%;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 17px;
+    border: none;
+    background-color: teal;
+    color: white;
+    font-size: 18px;
+}
+
+#btn:hover {
+    background-color: black;
+}
+
+#dibh3 {
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10px;
+    font-weight: normal;
+    margin-left: 150px;
+    color: black;
+}
+#lastdiv>img{
+   width: 100%;
+   height: 100%;
+}

@@ -1,0 +1,108 @@
+#esj{
+    display: flex;
+    border: 0px solid red;
+    padding: 40px;
+    gap:20px;
+}
+embed{
+    height: 700px;
+    width: 650px;
+}
+h1{
+  color: rgb(59, 20, 167);
+  font-size: 50px;
+  font-family: "Kapler", Sans-serif;
+  font-weight: 10;
+  line-height: 1.3em;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  
+}
+#effectbelow{
+    background-color: red;
+color: red;
+width: 15%;
+height: 3px;
+border: 0px ;
+margin-left:25px ;
+margin-top: -20px;
+margin-bottom: 20px;
+
+}
+#headnav{
+    display: flex;
+    position:fixed;
+    background-color: rgb(255, 255, 254);
+    padding: 0px;
+    margin-top: -10px;
+
+}
+#headnav>div:last-child{
+    width: 750px;
+    border: 0px solid red;
+    display: flex;
+    justify-content:space-evenly ;
+    margin-left: 250px;
+
+}
+#headnav>div>img{
+   height: 60px;
+ 
+}
+#effects{
+    margin-left: 80px;
+  
+    line-height: 50px;
+    font-size: 20px;
+}
+/* #headnav2{
+    display: flex;
+    
+    gap:10px;
+    margin-left: 520px;
+    border: 1px solid black;
+} */
+/* #bubles{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-color: aquamarine;
+    margin: 0 4px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px #4fc3dc44,
+    0 0 50px #4fc3dc,
+    0 0 100px #4fc3dc;
+    animation: animate 15s linear infinite;
+
+}  */
+#headimage{
+    width: 100%;
+}
+#esj_container {
+    margin-top: 30px;
+   
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    gap: 20px;
+    text-align: center;
+}
+#esj_container>div {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    padding: 10px, 30px, 10px, 30px;
+    padding: 20px;
+
+}
+#headnav2>h3:hover{
+    background-color: red; 
+}
+.esjdiv:hover{
+background-color: red;
+}
+.esjdiv{
+    margin-top: 20px;
+}
+/* img {
+    width: 82%;
+    height: 250px;
+} */

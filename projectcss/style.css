@@ -1,0 +1,296 @@
+
+#cont1{
+    display: grid;
+grid-template-columns: repeat(3,1fr);
+grid-template-rows: auto;
+gap: 10px;
+margin-top: 30px;
+text-align: center;
+}
+.crptobox{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#pic{
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+}
+
+.titlenews:hover{
+    color: red;
+}
+
+
+
+#midnewsbox{
+   
+    display: flex;
+    margin: auto;
+    margin-top: 30px; 
+    gap: 20px;
+}
+
+
+#cont2{
+
+    width: 76%;
+    /* border: 1px solid black; */
+   height: auto;
+}
+
+#midpic{
+    height: 150px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 60px;
+     /* border: 1px solid black; */
+}
+.midtitlenews{
+    margin-left: 50%;
+    margin-top: -120px;
+}
+.midtitlenews:hover{
+    color: red;
+}
+
+.middledes{
+    margin-left: 50%;
+   
+}
+
+#middate{
+    margin-left: 5px;
+    margin-top: -50px;
+}
+.middlebox{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+#carusel{
+    width: 23%;
+    height: 980px;
+    /* border: 1px solid black; */
+}
+
+/* slider start */
+splide__arrow--next svg{
+    position: relative;
+    top: 0;
+    left: 35px;
+}
+.splide__arrow--prev svg{
+    position: relative;
+    top: 0;
+    right: 35px;
+}
+.box{
+width: 350px;
+height: 550px;
+/* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+margin: auto;
+margin-bottom: 50px;
+}
+.product-img{
+width: 340px;
+height: 400px;
+position: relative;
+}
+
+.product-info{
+width: 300px;
+height: 250px;
+margin-top: 70px;
+ margin-left: 20px;
+text-align: center;
+}
+.container{
+width: 80%;
+margin: auto;
+}
+.sliderimg{
+    height: 300px;
+    width: 300px;
+}
+.product-img>h2{
+    position: absolute;
+    top: 350px;
+   left: 25%;
+   color: white;
+   
+}
+
+.splide__arrow svg {
+    fill:black;
+    height: 2.5em;
+    transition: fill .2s linear;
+    width: 2.5em;
+    margin-left: 16px;
+}
+/* slider end */
+
+
+.advertisment{
+    margin-top: 100px;
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid black; */
+    background-color: #f8f8f8 ;
+    text-align: center;
+}
+
+#cont3{
+
+    width: 80%;
+    /* border: 1px solid black; */
+   margin-bottom: 50px;
+   margin-left: 10px;
+}
+
+#cont4{
+margin-top: 50px;
+    width: 80%;
+    /* border: 1px solid black; */
+height: 1000px;
+margin-left: 10px;
+}
+
+/* agritech page css */
+#heading{
+    text-align: center;
+}
+#navbar{
+    margin-left: 5px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+}
+#navbar>h3:hover{
+color: red;
+}
+
+#wallpaper{
+   width: 100%;
+}
+#container{
+    margin: auto;
+    /* border: 1px solid black; */
+    width: 80%;
+}
+
+#cetrecont{
+    margin: auto;
+    /* border: 1px solid black; */
+    width: 80%; 
+    margin-top: 20px;
+}
+
+.para{
+    text-align:justify;
+    margin-left: 20%;
+    line-height: 30px;
+    font-weight:500;
+}
+.head{
+    margin-left: 5%;
+    margin-left: 20%;
+}
+#wallpaper1{
+    width: 80%;
+    height: 800px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 20px;
+}
+#wallpaper1>img{
+    width: 100%;
+}
+
+#container2{
+    height: 260px;
+    width: 80%;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 400px;
+display: flex;
+justify-content: space-between;
+}
+
+
+
+ .box1{
+    height: 200px;
+    width: 40%;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+ }
+
+ .logoimg{
+    height: 150px;
+    width: 25%;
+    margin-left: 40%;
+ }
+
+ #logo1{
+    height: 200px;
+    width: 400px;
+ }
+
+ .box1>h2{
+    text-align: center;
+ }
+
+ #box3{
+    
+    width: 40%;
+    text-align: center;
+    /* border: 1px solid; */
+margin-left: 800px;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+ }
+ .smallimg{
+    height: 80px;
+    width: 150px;
+ }
+ #lastheading{
+    margin-left: 1000px;
+ }
+
+#loginbox{
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+  
+}
+
+#lastheding{
+    margin-left: 150px;
+}
+
+.inputs{
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+#loginbox>div{
+   /* border: 1px solid; */
+   width: 60%;
+   /* height: 100px; */
+   padding: -50px;
+}
+.special{
+    margin-left: 150px;
+}
+
+#cont5{
+    margin-bottom: 80px;
+    /* border: 1px solid black; */
+    padding:200px ;
+}

@@ -1,0 +1,200 @@
+    /* Dibyanshu srivastav */
+    /*------------------------NAVBAR CSS----------------------------*/
+
+/* FOR WHOLE PAGE UNIVERSAL------------------------ */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, sans-serif;
+}
+
+/* FOR WHOLE NAVBAR SECTION---------------------------*/
+
+#dibyanshu_navbar {
+
+    border: 1px solid transparent;
+    width: 100%;
+    height: 450px;
+    margin-bottom: 30px;
+}
+  /* FOR HR TAG RED LINE-------------------------------*/
+#dibyanshu_hr {
+    border-top: 1px solid red;
+    width: 100%;
+}
+
+/* FOR DATE TIME-------------------------------- */
+#date {
+    border: 1px solid transparent;
+    width: 100%;
+    height: 30px;
+
+}
+#date h5{
+    font-weight: lighter;
+}
+
+ /* FOR AUTOMATIC SLIDER---------------------------*/
+
+.mySlides {
+    display: none;
+}
+
+.mySlides fade>img {
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+   
+}
+.im{
+    width: 100%;
+    height: 250px;
+}
+
+#point{
+    text-align: center;
+}
+
+.slideshow-container {
+    max-width: 65%;
+    height: 250px;
+    position: relative;
+    margin: auto;
+    border: 2px solid transparent;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:transparent;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    
+}
+
+.active {
+    background-color: transparent;
+}
+
+/* FOR FADING ANIMATION------------------------------*/
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+/* @keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+} */
+
+/* FOR SMALL SOCIAL MEDIA ICONS----------------------------------*/
+ 
+#datesmallicon{
+    width: 91%;
+    display: flex;
+    border: 1px solid transparent;
+    margin: auto;
+    margin-top: 0px;
+    
+}
+#datesmallicon div{
+    border: 1px solid transparent;
+}
+#datesmallicon :nth-child(1){
+    width: 60%;
+    
+}
+#datesmallicon :nth-child(2){
+    width: 27%;
+}
+#datesmallicon :nth-child(3){
+    width: 13%;
+}
+#smallicon{
+    display: flex;
+    
+}
+#smallicon div{
+  width: 13%;
+  border: 1px solid transparent;
+   margin: auto; 
+}
+#smallicon div:nth-child(1){
+    width: 20%;
+}
+#smallicon div:nth-child(2){
+    width: 20%;
+}
+#smallicon div:nth-child(3){
+    width: 20%;
+}
+#smallicon div:nth-child(4){
+    width: 20%;
+}
+#smallicon img{
+    width: 35px;
+    height: 30px;
+    
+}
+/* FOR WEBSITE LOGO IMG----------------------------------- */
+#Dib_logo{
+    border: 1px solid transparent;
+    height: 100px;
+    width: 17%;
+    margin: auto;
+    margin-top: 0px;
+}
+#Dib_logo img{
+    width: 100%;
+    height: 75%;
+}
+#Dib_logo button{
+    margin-left: 70px;
+    border: none;
+   
+}
+#Dib_logo button>a{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+/* FOR NAVBAR VARIOUS FOURTEEN SECTIONS */
+ #navsections{
+    border: 1px solid transparent;
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    display: flex;
+    justify-content: space-between; 
+    color: grey;
+    margin: auto;
+    
+}
+ #navsections div{
+
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+ 
+}
+#navsections div>a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+#navsections div>a:hover{
+ color: red;
+ background-color: rgb(225, 214, 214);
+
+ 
+} 

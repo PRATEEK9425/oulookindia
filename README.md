@@ -3,8 +3,7 @@ I thanks masai school to give us such a challenge to build oulook india magazine
 Build this website , all member have done equal justice in building Project and with strong dedication to learn more , all member have use
 many Teck-stack to build website , Total members was Five which have work for six day and night To build this master piece .
 
-#Project Details
-
+# Project Details 
 Outlook India is  a current affairs news magazine , which update the user From day-Today News .Outlook Publishing (India) Pvt. Ltd.
 started operations in 1995 as a division of Hathway Investments Private Limited, with the launch of ‘Outlook’,
 a current affairs news magazine. In 2003, the division was demerged into a separate entity Outlook Publishing (India) Pvt. Ltd.
@@ -13,14 +12,9 @@ a current affairs news magazine. In 2003, the division was demerged into a separ
 
 
 # Tech Stacks used -
-- React:
-- Redux :
-- JavaScipts :
-- chakra Ui :
-- custom component :
-- razorpay for the payment :
-- firebase auhentication
-- react-slick library for custom slider :
-- Node js and Express for backend
-- glitch for deployement the backend
+- Javascript:
+- Css :
+- Html :
+- Splide js :
+
 

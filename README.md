@@ -41,14 +41,15 @@ https://soft-lokum-557ac0.netlify.app/
 # Sign In From -
 - User have to signin To authenticate to website to see full excess of website .
 - Login is achieved with the Help of Local storage .
-![sign up page](https://user-images.githubusercontent.com/105915891/212820311-d37ee2d9-8fbd-4bdd-8a11-517986ee5a9b.PNG)
+![sign in page](https://user-images.githubusercontent.com/105915891/212821367-78b4930b-f559-4711-bc17-2b5415c79734.PNG)
+
 
 # Sign Up From -
 - if the user is not a existing visitor then he/she can create new account by using sign up feature
-- After clicking on need a new account, user will redirected to the sign up page
+- After clicking on need a new account, user have to signup for verification 
 - here user will get a from to fill
 - After creating new account he will be redirected to the sign in  page to proceed further.
-
+![sign up page](https://user-images.githubusercontent.com/105915891/212820311-d37ee2d9-8fbd-4bdd-8a11-517986ee5a9b.PNG)
 
 
 

@@ -12,9 +12,15 @@ a current affairs news magazine. In 2003, the division was demerged into a separ
 # Deployed live link
 
 
-# Tech Stacks used:-
--Javascript:
--css:
--Html :
--splide js (external Library) :
+# Tech Stacks used -
+- React:
+- Redux :
+- JavaScipts :
+- chakra Ui :
+- custom component :
+- razorpay for the payment :
+- firebase auhentication
+- react-slick library for custom slider :
+- Node js and Express for backend
+- glitch for deployement the backend
 

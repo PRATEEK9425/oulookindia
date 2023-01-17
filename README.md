@@ -55,4 +55,35 @@ https://soft-lokum-557ac0.netlify.app/
 ![sign up page](https://user-images.githubusercontent.com/105915891/212820311-d37ee2d9-8fbd-4bdd-8a11-517986ee5a9b.PNG)
 
 
+# Buisness Page  -
+- If user wnat to see all the details regarding buisness , buisness analitics and other news related to buisness and company  
+  he/she can refer this page.
+-It provide regarding all the info of news regarding world buisness page .
+![buisness page](https://user-images.githubusercontent.com/105915891/212827464-f3c80aba-ae61-4789-a54c-d129264d4447.PNG)
+
+# Crypto Page   -
+-  user wnat any information regarding crypto currency then he can visit to this page it provide all the information about crypto market.
+-  user is planning to apply money on crypro market , user will be getting fair idea regarding hike and low regarding crypto currency .
+![cryptopage](https://user-images.githubusercontent.com/105915891/212828599-abb729ec-525c-4907-a574-7514aab09db9.PNG)
+
+
+# Travel Page  -
+-  if user is fond of travelling new places around world the he can visit top most famous site and can plan his/her journey .
+-  If also provide all the fairs , regarding the journey .
+-  what are the Tradition and food that you will be getting while visiting to particular site .
+
+![travel page](https://user-images.githubusercontent.com/105915891/212829209-7a0b7361-464f-4802-a15e-16022e15a8d9.PNG)
+
+# Sports Page  -
+- user want to browse any information regarding the sports then he can browse to it .
+- user want to see any information regarding any particular sports the he can see .
+- this page also provide information regarding the player who won any medals or trofy in there sports fiels in which he is engaged .
+![sports](https://user-images.githubusercontent.com/105915891/212830106-84b1fbce-712c-4647-a3e7-4c702da697ab.PNG)
+
+# ENTERTAINMENT Page  -
+- This page provide all the information regarding the upcoming movies .
+- what is the rating of movie and income of movie .
+- what is reviews of people regarding movies .
+![entertainment](https://user-images.githubusercontent.com/105915891/212830804-de2818b7-4471-48d3-857a-70d0d03456da.PNG)
+
 

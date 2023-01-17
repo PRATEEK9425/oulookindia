@@ -35,6 +35,8 @@ https://soft-lokum-557ac0.netlify.app/
 - User from Home page can see all latest news from Home page itself .
 - if user want to see some particular news then he can see onclicking on navbar .
 - At bottom of every page a footer is set to share all details regarding company and also company copy write .
+![home](https://user-images.githubusercontent.com/105915891/212826119-9c4faf82-92ba-4bb6-996f-9fbff9bf29eb.PNG)
+![home 1](https://user-images.githubusercontent.com/105915891/212826127-627fd850-71d6-4fd5-ba5d-93c579169116.PNG)
 
 
 

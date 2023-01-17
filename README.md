@@ -12,9 +12,9 @@ a current affairs news magazine. In 2003, the division was demerged into a separ
 # Deployed live link
 
 
-# Tech Stacks used -
--Javascript 
--css
--Html
--splide js (external Library)
+# Tech Stacks used:-
+-Javascript:
+-css:
+-Html :
+-splide js (external Library) :
 

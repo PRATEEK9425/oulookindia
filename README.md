@@ -4,6 +4,7 @@ Build this website , all member have done equal justice in building Project and 
 many Teck-stack to build website , Total members was Five which have work for six day and night To build this master piece .
 
 #Project Details
+
 Outlook India is  a current affairs news magazine , which update the user From day-Today News .Outlook Publishing (India) Pvt. Ltd.
 started operations in 1995 as a division of Hathway Investments Private Limited, with the launch of ‘Outlook’,
 a current affairs news magazine. In 2003, the division was demerged into a separate entity Outlook Publishing (India) Pvt. Ltd.
